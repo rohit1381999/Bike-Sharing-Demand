@@ -14,8 +14,7 @@ casual - number of non-registered user rentals initiated
 registered number of registered user rentals initiated 
 count - number of total rentals
 
-## Data Analysis Project:
-###{Bike Dataset from Kaggle}
+## Data Analysis Project: ------##>>>>{Bike Dataset from Kaggle}
 ## Project Description:
 Analyzed a bike dataset from Kaggle to gain insights into factors influencing bike usage and demand.
 
