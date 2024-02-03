@@ -17,7 +17,7 @@ count - number of total rentals
 **Data Analysis Project: Bike Dataset from Kaggle****
 **Project Description:** Analyzed a bike dataset from Kaggle to gain insights into factors influencing bike usage and demand.
 
-Project Details:
+## Project Details:
 - Conducted comprehensive **data cleaning, addressing missing** values and ensuring data integrity.
 - Implemented various regression analyses, including **linear regression, lasso regression, and ridge regression.**
 - Evaluated model performance using regression metrics such as R-squared and Mean Squared Error.
